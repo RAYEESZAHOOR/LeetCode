@@ -16,6 +16,6 @@ class Solution:
             num, den = nums[i], nums[i + 1]
             numerator = numerator * den + num * denominator
             denominator *= den
-        
+            
         common_divisor = gcd(numerator, denominator)
         return f"{numerator // common_divisor}/{denominator // common_divisor}"
