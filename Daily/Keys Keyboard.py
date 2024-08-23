@@ -2,7 +2,7 @@
 
 # Copy All: You can copy all the characters present on the screen (a partial copy is not allowed).
 # Paste: You can paste the characters which are copied last time.
-# Given an integer n, return the minimum number of operations to get the character 'A' exactly n times on the screen.
+# Given an integer n, return the min number of operations to get the character 'A' exactly n times on the screen.
 
 
 class Solution:
