@@ -1,3 +1,5 @@
+# Easy
+
 class Solution(object):
     def nthUglyNumber(self, n):
         primes = [2,3,5]
